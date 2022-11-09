@@ -1,7 +1,18 @@
 .App {
   text-align: center;
+  font-family: sans-serif;
+  width: 800px;
+  height: 600px;
+  z-index: -1;
+  overflow: hidden;
 }
 
+.rp-default-input-section{
+  z-index: 3 !important;
+}
+.rp-selected-input{
+  z-index: 3000000000000 !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
