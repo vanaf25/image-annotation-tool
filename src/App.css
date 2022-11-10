@@ -3,8 +3,6 @@
   font-family: sans-serif;
   width: 800px;
   height: 600px;
-  z-index: -1;
-  overflow: hidden;
 }
 
 .rp-default-input-section{
